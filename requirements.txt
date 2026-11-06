@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy>=2
+pyjwt
+pwdlib[argon2]
+pydantic[email]
+python-multipart
+openpyxl
+reportlab
+python-dotenv

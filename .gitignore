@@ -1,0 +1,8 @@
+.env
+cbt.db
+cbt.db-wal
+cbt.db-shm
+__pycache__/
+*.pyc
+venv/
+.venv/
